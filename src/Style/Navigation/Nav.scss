@@ -1,0 +1,20 @@
+nav{
+    background-color: black;
+    .logo{
+        background-color: crimson;
+        width: fit-content;
+        display: flex;
+        align-items: center;
+        border-radius: 0 20em 20em 0;
+        img{
+            width: 60em;
+        }
+        b{
+            font-size: 2rem;
+            color: aliceblue;
+            margin-left:0.5em;
+            margin-right: 0.5em;
+        }
+    }
+
+}

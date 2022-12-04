@@ -1,0 +1,21 @@
+nav {
+  background-color: black;
+}
+nav .logo {
+  background-color: crimson;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  display: flex;
+  align-items: center;
+  border-radius: 0 20em 20em 0;
+}
+nav .logo img {
+  width: 60em;
+}
+nav .logo b {
+  font-size: 2rem;
+  color: aliceblue;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}/*# sourceMappingURL=Nav.css.map */
