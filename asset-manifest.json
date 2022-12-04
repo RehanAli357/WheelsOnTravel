@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WheelsOnTravel/static/css/main.692ea0eb.css",
+    "main.js": "/WheelsOnTravel/static/js/main.496009a4.js",
+    "static/js/787.74bc0707.chunk.js": "/WheelsOnTravel/static/js/787.74bc0707.chunk.js",
+    "index.html": "/WheelsOnTravel/index.html",
+    "main.692ea0eb.css.map": "/WheelsOnTravel/static/css/main.692ea0eb.css.map",
+    "main.496009a4.js.map": "/WheelsOnTravel/static/js/main.496009a4.js.map",
+    "787.74bc0707.chunk.js.map": "/WheelsOnTravel/static/js/787.74bc0707.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.692ea0eb.css",
+    "static/js/main.496009a4.js"
+  ]
+}
